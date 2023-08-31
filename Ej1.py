@@ -16,4 +16,4 @@ else:
     print("El triángulo es escaleno")
 
 #-----------------------------------------------------------
-# soluciones mejores:
+# soluciones mejoradas:
